@@ -1,6 +1,6 @@
 # NEO
 
-!["Alt text"](neofetch.png)
+!["Alt text"](neofetch_img.png)
 
 ## INSTALL
 * clone repo and change directory
@@ -10,6 +10,13 @@
   ```
   cp -R neofetch ~/.config/
 * DONE
+
+## (OPTIONAL)
+* create an alias in your shell (i use ZSH)
+  , add the line in ~/.zshrc
+  ```
+  alias neo="neofetch"
+____
 
 ## RUN
   ```
